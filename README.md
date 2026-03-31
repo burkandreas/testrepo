@@ -1,3 +1,3 @@
 # testrepo
 coursera
-It's a markdown file inn this repository
+It's a markdown file in this repository
